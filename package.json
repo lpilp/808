@@ -1,0 +1,11 @@
+{
+  "name": "808",
+  "version": "1.0.0",
+  "description": "808 exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL-3.0"
+}
